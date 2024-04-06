@@ -3,6 +3,8 @@ import Footer from "./layout/Footer";
 import HashtagList from "./hashtag/HashtagList";
 import FeedbackItemsContextProvider from "../contexts/FeedbackItemsContextProvider";
 
+console.log("test");
+
 function App() {
   return (
     <div className="app">
